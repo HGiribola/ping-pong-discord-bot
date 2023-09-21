@@ -1,0 +1,1 @@
+### Gerar novo token!
